@@ -1,0 +1,21 @@
+name: Update Quote Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 17 * * *"
+
+jobs:
+  update-readme:
+    name: Update Quote README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: 0x00000024/quote-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: 0x00000024/0x00000024
+          COMMIT_AUTHOR_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+          COMMIT_AUTHOR_NAME: "github-actions[bot]"
+          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+          COMMIT_USERNAME: "github-actions[bot]"
+          COMMIT_MESSAGE: "docs(quote): Update README with quote"

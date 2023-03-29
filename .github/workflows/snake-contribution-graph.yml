@@ -1,0 +1,32 @@
+name: Snake Contribution Graph
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 16 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          branch: main
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_user_name: "github-actions[bot]"
+          commit_message: "docs(graph): Update README with snake contribution graph"
