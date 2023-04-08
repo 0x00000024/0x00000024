@@ -7,7 +7,7 @@ I'm a software engineer. Welcome to my GitHub profile!
 - 💬 Feel free to reach out to me if you want to chat about coding or anything else!
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In a software project team of 10, there are probably 3 people who produce enough defects to make them net negative producers.”— Gordon Schulmeyer   ❞</i>
+<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### Connect with me:
