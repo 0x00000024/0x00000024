@@ -282,6 +282,11 @@ Here's a list of technologies I am currently using and learning:
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
 ![DbSchema](https://img.shields.io/badge/-DbSchema-000000?style=for-the-badge&logo=dbschema&logoColor=ffffff)
+![Fathom](https://img.shields.io/badge/-Fathom-000000?style=for-the-badge&logo=fathom&logoColor=ffffff)
+![Google Analytics](https://img.shields.io/badge/-Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=ffffff)
+![Matomo](https://img.shields.io/badge/-Matomo-000000?style=for-the-badge&logo=matomo&logoColor=ffffff)
+![GoAccess](https://img.shields.io/badge/-GoAccess-000000?style=for-the-badge&logo=goaccess&logoColor=ffffff)
+![Simul Docs](https://img.shields.io/badge/-Simul_Docs-000000?style=for-the-badge&logo=simuldocs&logoColor=ffffff)
 
 <h1 align="center">⚡ Stats ⚡</h1>
 
