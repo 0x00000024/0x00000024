@@ -287,6 +287,8 @@ Here's a list of technologies I am currently using and learning:
 ![Matomo](https://img.shields.io/badge/-Matomo-000000?style=for-the-badge&logo=matomo&logoColor=ffffff)
 ![GoAccess](https://img.shields.io/badge/-GoAccess-000000?style=for-the-badge&logo=goaccess&logoColor=ffffff)
 ![Simul Docs](https://img.shields.io/badge/-Simul_Docs-000000?style=for-the-badge&logo=simuldocs&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff)
+![Zeplin](https://img.shields.io/badge/-Zeplin-000000?style=for-the-badge&logo=zeplin&logoColor=ffffff)
 
 <h1 align="center">⚡ Stats ⚡</h1>
 
