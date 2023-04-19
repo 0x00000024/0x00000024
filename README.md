@@ -289,6 +289,7 @@ Here's a list of technologies I am currently using and learning:
 ![Simul Docs](https://img.shields.io/badge/-Simul_Docs-000000?style=for-the-badge&logo=simuldocs&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff)
 ![Zeplin](https://img.shields.io/badge/-Zeplin-000000?style=for-the-badge&logo=zeplin&logoColor=ffffff)
+![Rclone](https://img.shields.io/badge/-Rclone-000000?style=for-the-badge&logo=rclone&logoColor=ffffff)
 
 <h1 align="center">⚡ Stats ⚡</h1>
 
