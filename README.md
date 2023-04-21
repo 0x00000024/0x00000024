@@ -290,6 +290,7 @@ Here's a list of technologies I am currently using and learning:
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff)
 ![Zeplin](https://img.shields.io/badge/-Zeplin-000000?style=for-the-badge&logo=zeplin&logoColor=ffffff)
 ![Rclone](https://img.shields.io/badge/-Rclone-000000?style=for-the-badge&logo=rclone&logoColor=ffffff)
+![TestFlight](https://img.shields.io/badge/-TestFlight-000000?style=for-the-badge&logo=testflight&logoColor=ffffff)
 
 <h1 align="center">⚡ Stats ⚡</h1>
 
