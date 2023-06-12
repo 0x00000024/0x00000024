@@ -308,7 +308,7 @@ Here's a list of technologies I am currently using and learning:
 
 📊Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C845%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C854%20hrs%2051%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -389,7 +389,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0x00000024/0x00000024/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2023 18:06:45 UTC
+ Last Updated on 12/06/2023 18:06:57 UTC
 <!--END_SECTION:waka-->
 
 <br>
