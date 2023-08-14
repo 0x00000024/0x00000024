@@ -7,7 +7,7 @@ I'm a software engineer. Welcome to my GitHub profile!
 - 💬 Feel free to reach out to me if you want to chat about coding or anything else!
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to learn data science is to do data science.”— Chanin Nantasenamat❞</i>
+<i>❝“Computers are good at following instructions, but not at reading your mind.”— Donald Knuth   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### Connect with me:
