@@ -7,7 +7,7 @@ I'm a software engineer. Welcome to my GitHub profile!
 - 💬 Feel free to reach out to me if you want to chat about coding or anything else!
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computers are good at following instructions, but not at reading your mind.”— Donald Knuth   ❞</i>
+<i>❝In 2005, Sony illegally installed rootkits on 22 million computers to prevent the users from ripping copyrighted music, and could not be uninstalled. It also reported user’s listening habits back to Sony. Ironically, the code itself contained open source software, and so infringed copyright.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### Connect with me:
