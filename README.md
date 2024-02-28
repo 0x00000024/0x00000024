@@ -308,7 +308,7 @@ Here's a list of technologies I am currently using and learning:
 
 📊Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C647%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C651%20hrs%2057%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -375,10 +375,10 @@ Unknown OS               2 hrs               ████░░░░░░░�
 
 ```text
 Python                   18 repos            ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-JavaScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
 C++                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
 TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Dockerfile               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Dockerfile               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 
 
@@ -388,7 +388,7 @@ Dockerfile               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0x00000024/0x00000024/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2024 18:07:42 UTC
+ Last Updated on 28/02/2024 18:07:38 UTC
 <!--END_SECTION:waka-->
 
 <br>
