@@ -308,13 +308,11 @@ Here's a list of technologies I am currently using and learning:
 
 📊Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C975%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C978%20hrs%2037%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
- > 
-> 🏆 11 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -347,19 +345,19 @@ Sunday                   330 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    62 hrs 30 mins      █████████████████████████   100.00 % 
+Other                    55 hrs 30 mins      █████████████████████████   100.00 % 
 sh                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Google Calendar          62 hrs 30 mins      █████████████████████████   100.00 % 
+Google Calendar          55 hrs 30 mins      █████████████████████████   100.00 % 
 Zsh                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          62 hrs 30 mins      █████████████████████████   100.00 % 
+Unknown Project          55 hrs 30 mins      █████████████████████████   100.00 % 
 ethan                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Unknown OS               62 hrs 30 mins      █████████████████████████   100.00 % 
+Unknown OS               55 hrs 30 mins      █████████████████████████   100.00 % 
 Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -380,7 +378,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0x00000024/0x00000024/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2024 18:07:16 UTC
+ Last Updated on 11/06/2024 18:07:48 UTC
 <!--END_SECTION:waka-->
 
 <br>
