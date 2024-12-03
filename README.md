@@ -7,7 +7,7 @@ I'm a software engineer. Welcome to my GitHub profile!
 - 💬 Feel free to reach out to me if you want to chat about coding or anything else!
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If we wish to count lines of code, we should not regard them as ‘lines produced’ but as ‘lines spent.'”— Edsger Dijkstra   ❞</i>
+<i>❝The worst breach of U.S. military computers in history happened when someone picked up a memory stick (infected by a foreign intelligence agency) they found in the parking lot and plugged it into their computer, which was attached to United States Central Command.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### Connect with me:
