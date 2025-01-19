@@ -308,7 +308,7 @@ Here's a list of technologies I am currently using and learning:
 
 📊Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C713%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C713%20hrs%2027%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -361,7 +361,7 @@ Neovim                   1 hr 32 mins        ██░░░░░░░░░�
 
 🐱‍💻 Projects: 
 fluid-edge               7 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.34 % 
-ethan                    5 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+ethan                    5 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
 Unknown Project          4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
 TRELLIS                  3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
 dl                       39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
@@ -388,7 +388,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0x00000024/0x00000024/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2025 18:09:00 UTC
+ Last Updated on 19/01/2025 18:08:25 UTC
 <!--END_SECTION:waka-->
 
 <br>
