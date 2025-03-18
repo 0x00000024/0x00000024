@@ -301,7 +301,7 @@ Here's a list of technologies I am currently using and learning:
 </div>
 
 <!--START_SECTION:Progress Bar-->
-📅 Year Progress [ 🔴🔴🔴🔴🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 ] 20.72% as of ⏰ Mon Mar 17 2025 🕰️
+📅 Year Progress [ 🔴🔴🔴🔴🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 ] 20.99% as of ⏰ Tue Mar 18 2025 🕰️
 <!--END_SECTION:Progress Bar-->
 
 <br>
