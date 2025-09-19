@@ -45,5 +45,6 @@ jobs:
           git add assets/
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Update contribution snake animation"
+            git pull --rebase origin main
             git push
           fi
