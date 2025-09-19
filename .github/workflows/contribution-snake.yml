@@ -17,20 +17,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate Snake Animation
+        uses: Sutil/snk@master
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            assets/snake.svg
-            assets/snake-dark.svg?palette=github-dark
-            
-      - name: Push changes
+          svg_out_path: assets/github-contribution-grid-snake.svg
+          gif_out_path: assets/github-contribution-grid-snake.gif
+          
+      - name: Push Snake to GitHub
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Update contribution snake"
+            git commit -m "Update contribution snake animation"
             git push
           fi
