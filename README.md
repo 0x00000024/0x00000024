@@ -317,7 +317,7 @@ Here's a list of technologies I am currently using and learning:
 
 📊Weekly development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C436%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C436%20hrs%2048%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -396,7 +396,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0x00000024/0x00000024/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2025 18:10:42 UTC
+ Last Updated on 24/11/2025 18:11:34 UTC
 <!--END_SECTION:waka-->
 
 <br>
