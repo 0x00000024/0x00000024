@@ -7,7 +7,7 @@ I'm a software engineer. Welcome to my GitHub profile!
 - 💬 Feel free to reach out to me if you want to chat about coding or anything else!
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first ever hard disk drive was made in 1979, and could hold only 5MB of data.❞</i>
+<i>❝“Getting information off the Internet is like taking a drink from a fire hydrant.”— Mitchell Kapor  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### Connect with me:
