@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "0 17 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update Quote README
@@ -12,7 +15,7 @@ jobs:
     steps:
       - uses: 0x00000024/quote-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
           REPOSITORY: 0x00000024/0x00000024
           COMMIT_AUTHOR_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
           COMMIT_AUTHOR_NAME: "github-actions[bot]"
