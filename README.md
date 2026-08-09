@@ -7,7 +7,7 @@ I'm a software engineer. Welcome to my GitHub profile!
 - 💬 Feel free to reach out to me if you want to chat about coding or anything else!
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Mircosoft included Solitaire in their operating systems “to soothe people intimidated by the operating system” and introduce users to graphic user interfaces and taught them how to use a mouse.❞</i>
+<i>❝“I didn’t work hard to make Ruby perfect for everyone, because you feel differently from me.  No language can be perfect for everyone.  I tried to make Ruby perfect for me, but maybe it’s not perfect for you.  The perfect language for Guido van Rossum is probably Python.”— Yukihiro Matsumoto, aka “Matz”, creator of Ruby   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### Connect with me:
