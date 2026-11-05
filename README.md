@@ -7,7 +7,7 @@ I'm a software engineer. Welcome to my GitHub profile!
 - 💬 Feel free to reach out to me if you want to chat about coding or anything else!
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Before software should be reusable, it should be usable.”— Ralph Johnson  ❞</i>
+<i>❝“Looking at code you wrote more than two weeks ago is like looking at code you are seeing for the first time.”— Dan Hurvitz   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ### Connect with me:
